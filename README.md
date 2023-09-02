@@ -3,11 +3,11 @@ API de Gestão de Usuários
 Este é um projeto de exemplo que demonstra uma API de gerenciamento de usuários construída com o framework Django e o Django REST framework. A API permite realizar operações CRUD (Criar, Ler, Atualizar e Excluir) em registros de usuários, como apelido (nickname), nome, e-mail e idade.
 
 Funcionalidades Principais 
--Listar Todos os Usuários**: Recupere uma lista de todos os usuários cadastrados na API. 
--Obter Usuário por Apelido**: Recupere informações de um usuário específico com base em seu apelido (nickname). 
--Criar Novo Usuário**: Adicione um novo usuário à base de dados fornecendo informações como apelido, nome, e-mail e idade. 
--Atualizar Usuário**: Atualize informações de um usuário existente, incluindo apelido, nome, e-mail e idade. 
--Excluir Usuário**: Remova um usuário da base de dados com base em seu apelido. 
+ Listar Todos os Usuários**: Recupere uma lista de todos os usuários cadastrados na API. 
+ Obter Usuário por Apelido**: Recupere informações de um usuário específico com base em seu apelido (nickname). 
+ Criar Novo Usuário**: Adicione um novo usuário à base de dados fornecendo informações como apelido, nome, e-mail e idade. 
+ Atualizar Usuário**: Atualize informações de um usuário existente, incluindo apelido, nome, e-mail e idade. 
+ Excluir Usuário: Remova um usuário da base de dados com base em seu apelido. 
 
 Configuração do Projeto 
  O projeto usa o Django como framework web e o Django REST framework para criar uma API RESTful. 
