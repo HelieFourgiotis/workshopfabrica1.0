@@ -5,7 +5,9 @@ Este é um projeto de exemplo que demonstra uma API de gerenciamento de usuário
 Funcionalidades Principais 
 
  Listar Todos os Usuários: Recupere uma lista de todos os usuários cadastrados na API.  
+ 
  Obter Usuário por Apelido: Recupere informações de um usuário específico com base em seu apelido (nickname). 
+ 
  Criar Novo Usuário: Adicione um novo usuário à base de dados fornecendo informações como apelido, nome, e-mail e idade. 
  Atualizar Usuário: Atualize informações de um usuário existente, incluindo apelido, nome, e-mail e idade. 
  Excluir Usuário: Remova um usuário da base de dados com base em seu apelido. 
